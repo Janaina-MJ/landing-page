@@ -60,6 +60,30 @@ section {
     min-height: 101vh;
 }
 
+.back__to__top__btn {
+    position: fixed;
+    right: 3px;
+    bottom: 60px;
+    width: 37px;
+    height: 37px;
+    outline-style: none;
+    border-style: none;
+    border-radius: 10px;
+    background-color: rgb(34, 34, 34);
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    line-height: 9px;
+}
+
+.back__to__top__btn:active {
+    background-color: yellow;
+    color: rgb(0, 0, 0);
+}
+
+.button__display__none {
+    display: none;
+}
 
 /* ---- Module Rules ---- */
 

@@ -12,6 +12,8 @@
 
 ## Functionalities:
 
-- Scrolling effect
-- Dynamic active 
-- Navigation
+- Smooth scrolling effect to links
+- Dynamically highlight sections in viewport upon scrolling
+- Dynamically add an active state to a navigation item when a section is in the viewport.
+- Dynamically updating navigational menu
+- Dynamically adds a scroll to top button

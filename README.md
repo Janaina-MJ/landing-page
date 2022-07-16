@@ -7,6 +7,13 @@ This is a project to [Udacity](https://www.udacity.com/us)'s Front End Web Devel
 This is a multi-section landing page with a dynamically updating navigational menu based on the amount of content that is added to the page.
 The landing page dynamically builds the navigation menu. When a user clicks on a navigation item, the item scrolls you to the appropriate section rather than giving you the default jump. Also, to improve the user experience, the section actively being viewed turns highlighted automatically, to differentiated it from the other ones.
 
+## 👀 Check it Out:
+
+https://landing-page-jade-seven.vercel.app
+
+<img width="512" alt="Screenshot 2022-07-16 at 08 51 53" src="https://user-images.githubusercontent.com/78409024/179346385-c01f1e38-fa98-4c58-8b94-40edc85f98d9.png">
+
+
 ## Project Intro
 
 * Converting a static web project to a dynamic one: As it's not known how much content will be added to the page through a CMS or an API, the content will be added to the page dynamically.
